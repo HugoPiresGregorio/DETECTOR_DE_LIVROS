@@ -90,5 +90,5 @@ Acesse no navegador: [http://localhost:8501](http://localhost:8501)
 
 ##  Autor
 
-Projeto desenvolvido por **[Hugo Pires (TryyFt)](https://github.com/TryyFt)** 💡  
+Projeto desenvolvido por **[Hugo Pires](https://github.com/HugoPiresGregorio)** 💡  
 Se quiser contribuir, abra uma issue ou envie um pull request.  
